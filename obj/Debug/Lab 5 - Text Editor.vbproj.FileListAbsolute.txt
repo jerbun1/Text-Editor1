@@ -1,0 +1,12 @@
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbprojAssemblyReference.cache
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab_5___Text_Editor___Jesse_Revell.frmTextEditor.resources
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab_5___Text_Editor___Jesse_Revell.Resources.resources
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbproj.GenerateResource.cache
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbproj.CoreCompileInputs.cache
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor - Jesse Revell.exe
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor - Jesse Revell.xml
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor - Jesse Revell.pdb
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor - Jesse Revell.exe.config
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor - Jesse Revell.exe
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor - Jesse Revell.pdb
+C:\Users\twofa\Documents\Semester 2\textbooks\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor - Jesse Revell.xml

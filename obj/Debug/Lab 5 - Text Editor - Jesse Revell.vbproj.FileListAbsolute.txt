@@ -1,0 +1,12 @@
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.vbprojAssemblyReference.cache
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab_5___Text_Editor___Jesse_Revell.frmTextEditor.resources
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab_5___Text_Editor___Jesse_Revell.Resources.resources
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.vbproj.GenerateResource.cache
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.vbproj.CoreCompileInputs.cache
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\bin\Debug\Lab 5 - Text Editor - Jesse Revell.exe.config
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\bin\Debug\Lab 5 - Text Editor - Jesse Revell.exe
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\bin\Debug\Lab 5 - Text Editor - Jesse Revell.pdb
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\bin\Debug\Lab 5 - Text Editor - Jesse Revell.xml
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.exe
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.xml
+D:\Durham\2019 SUMMER\NETD-2202\Lab 5 - Text Editor - Jesse Revell\Lab 5 - Text Editor - Jesse Revell\obj\Debug\Lab 5 - Text Editor - Jesse Revell.pdb
